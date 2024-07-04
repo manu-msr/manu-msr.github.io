@@ -53,7 +53,6 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 </ul>
 
 </details>
-<br>
 
 <details><summary><b>Sinodal en proyectos de titulación</b></summary>
 
