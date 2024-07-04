@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="30%">
+
 👨‍🏫 **Actualmente estoy enseñando**   
 
 - Explorando la IA y el ML​ (BEDU, BEDU Tech)
