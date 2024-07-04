@@ -1,7 +1,6 @@
 👨‍🏫 **Actualmente estoy enseñando**   
 
-- [Introducción a Bases de Datos (BEDU, BEDU Tech)](https://github.com/beduExpert/Introduccion-a-Bases-de-Datos-2024)
-- Data Thinking (BEDU, BEDU Tech)
+- Explorando la IA y el ML​ (BEDU, BEDU Tech)
 
 🧐 **Actualmente estoy aprendiendo**
 
@@ -124,6 +123,8 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 - Inteligencia Artificial Generativa
 - Inteligencia Artificial Generativa para el Análisis de Datos
 - Data Thinking
+- PostgreSQL Avanzado
+- Explorando la IA y el ML​
 
 </details>
 
