@@ -28,7 +28,7 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 
 <br>
 <ul>
-  <li><b>Seguridad de Sistemas de Tipos vía Verificación de Modelos</b>b><br>   
+  <li><b>Seguridad de Sistemas de Tipos vía Verificación de Modelos</b><br>   
   Proyecto de obtención de grado de maestría (Ciencia e Ingeniería de la Computación, 2023)<br>
   Dirigido por el Dr. Favio E. Miranda Perea y el Dr. David A. Rosenblueth Laguette<br><br></li>
 
@@ -46,11 +46,15 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx](mailto:manu@ciencias.unam.mx).
 
 <details><summary><b>Asesor en proyectos de titulación</b></summary>
+<br>
 
-- Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)  
-  *Manual de Prácticas para la asignatura de Lógica Computacional*
-  
+<ul>
+  <li>Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)<br>   
+  <em>Manual de Prácticas para la asignatura de Lógica Computacional</em><br></li>
+</ul>
+
 </details>
+<br>
 
 <details><summary><b>Sinodal en proyectos de titulación</b></summary>
 
