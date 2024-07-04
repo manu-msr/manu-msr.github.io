@@ -70,6 +70,9 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 
 <details><summary><b>Desarrollo de material didactico</b></summary>
 
+- Diseño de curso PostgreSQL Avanzado (Programa 2024)
+  *BEDU*
+
 - Diseño del curso Introducción a Bases de Datos (Programa 2024)   
   *BEDU*
 
