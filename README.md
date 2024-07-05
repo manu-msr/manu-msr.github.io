@@ -21,8 +21,6 @@ Estudié la licenciatura en Ciencias de la Computación en la Facultad de Cienci
 
 Mis áreas de interés son la teoría de la computación y la ciencia de datos.
 
-Puedes encontrar más información sobre mi experiencia profesional en mi [perfil de LinkedIn](https://www.linkedin.com/in/manumsr/).
-
 ### 📚 Investigación y divulgación
 
 <details><summary><b>Publicaciones</b></summary>
@@ -42,6 +40,74 @@ Puedes encontrar más información sobre mi experiencia profesional en mi [perfi
 </ul>
 </details>
 
+<details><summary><b>Desarrollo de material didactico</b></summary>
+
+<br>
+<ul>
+  <li><b>Diseño y desarrollo del curso PostgreSQL Avanzado</b><br>   
+  Programa desarrollado para la Guardia Nacional (BEDU, 2024)<br><br></li>
+
+  <li><b>Diseño y desarrollo del curso Introducción a Bases de Datos</b><br>   
+  Programa desarrollado para el diplomado en Ciencia de Datos (BEDU, 2024)<br><br></li>
+
+  <li><b>Diseño y desarrollo del curso SQL para principiantes</b><br>   
+  Programa desarrollado para el programa BEDU Open (BEDU, 2021)<br><br></li>
+
+  <li><b>Diseño y desarrollo del curso Introducción a terminal Linux</b><br>   
+  Programa desarrollado para el programa BEDU Open (BEDU, 2021)<br><br></li>
+
+  <li><b>Diseño y desarrollo del curso Introducción a Bases de Datos</b><br>   
+  Programa desarrollado para el diplomado en Análisis de Datos (BEDU, 2020)</li>
+</ul>
+  
+</details>
+
+<details><summary><b>Ponencias</b></summary>
+
+<br>
+<ul>
+  <li><b>Ciencia de Datos: Aplicaciones en Economía</b><br>   
+  UAEH, México, mar. 2024<br><br></li>
+
+  <li><b>Machine Learning con Python: Aprendizaje no supervisado</b><br>   
+  UACM 11vo simposio de Ingeniería, México, oct. 2023<br><br></li>
+
+  <li><b>Sesgos en el tratamiento de datos</b><br>   
+  Bedu Workshops, México, may. 2022<br><br></li>
+
+  <li><b>Desarrollo de Software para la creación de productos digitales</b><br>   
+  BEDU/TecMilenio. Charla informativa, México, abr. 2022<br><br></li>
+
+  <li><b>Los datos detrás de tu date</b><br>   
+  BEDU Live, México, feb. 2022<br><br></li>
+
+  <li><b>Machine Learning: El camino hacia la inteligencia artificial </b><br>   
+  BEDU Workshops, México, oct. 2021<br><br></li>
+
+  <li><b>Análisis de Datos para Perfiles no Tecnológicos</b><br>   
+  BEDU Live, México, ago. 2021<br><br></li>
+
+  <li><b>Introducción al Sistema de Tipos de Haskell</b><br>   
+  Lambdada Online, Tercera Edición, México, feb. 2021<br><br></li>
+
+  <li><b>Orígenes de la Programación Funcional</b><br>   
+  Lambdada Online, Primera Edición, México, oct. 2020<br><br></li>
+
+  <li><b>Ciencias de la Computación en la Industria</b><br>   
+  Actividades de Bienvenida a la Generación 2020, Facultad de Ciencias UNAM, CDMX, México, jul. 2019<br><br></li>
+
+  <li><b>El bullying hacia la comunidad LGBT+</b><br>   
+  Primera semana de la Equidad en la Facultad de Ciencias, Facultad de Ciencias UNAM, CDMX, México, abr. 2019<br><br></li>
+
+  <li><b>¿Qué son las ciencias de la computación?</b><br>   
+  Jornada de Orientación Vocacional 2019, Facultad de Ciencias UNAM, CDMX, México, mar. 2019<br><br></li>
+
+  <li><b>Datos infinitos con el mínimo esfuerzo</b><br>   
+  IX Aquelarre Matemático, Facultad de Ciencias UNAM, CDMX, México, oct. 2018</li>
+</ul>
+  
+</details>
+
 ### 🤓 Proyectos recientes
 
 Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda confianza al correo [manu@ciencias.unam.mx](mailto:manu@ciencias.unam.mx).
@@ -50,154 +116,163 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 <br>
 
 <ul>
-  <li>Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)<br>   
-  <em>Manual de Prácticas para la asignatura de Lógica Computacional</em><br></li>
+  <li><b>Manual de Prácticas para la Asignatura de Lógica Computacional</b><br/>
+  Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación, 2023)</li>
 </ul>
 
 </details>
 
 <details><summary><b>Sinodal en proyectos de titulación</b></summary>
+<br>
 
-- Andrés Luisos Barbosa Carranza (Licenciatura en Ciencias de la Computación)   
-  *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*
+<ul>
+  <li><b>Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)</b><br/>
+  Andrés Luisos Barbosa Carranza (Licenciatura en Ciencias de la Computación, 2021)</li>
+</ul>
 
 </details>
 
 <details><summary><b>Asesor en proyectos de servicio social</b></summary>
+<br>
 
-- Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)  
-  *Apoyo a la docencia: Ayudante del curso de Programación Declarativa*
+<ul>
+  <li><b>Apoyo a la docencia: Ayudante del curso de Programación Declarativa</b><br/>
+  Luis Fernando Loyola Cruz (Licenciatura en Ciencias de la Computación)  </li>
+</ul>
 
- </details>
+</details>
 
-<details><summary><b>Desarrollo de material didactico</b></summary>
 
-- Diseño de curso PostgreSQL Avanzado (Programa 2024)
-  *BEDU*
 
-- Diseño del curso Introducción a Bases de Datos (Programa 2024)   
-  *BEDU*
+### 🏭 Experiencia en la Industria
 
-- Diseño del curso Bedu Open: SQL para principiantes (Programa 2021)   
-  *BEDU*
+<details><summary><b>DGAPA-UNAM</b></summary>
+<br>
 
-- Diseño del curso Bedu Open: Introducción a terminal Linux (Programa 2021)   
-  *BEDU*
+<ul>
 
-- Diseño del curso Introducción a Bases de Datos (Programa 2020)   
-  *BEDU*
-  
+  <li><b>Administrador de Bases de Datos</b><br/>
+  Administración de los servidores de bases de datos de la dependencia así cómo programación de tareas de respaldo, réplicación, cambio de accesos, creación de procedimientos almacenados entre otras.
+
+Sistema Gestor de Bases de Datos: PostgreSQL</li>
+</ul>
+
+</details>
+
+<details><summary><b>Objectsoft de México</b></summary>
+<br>
+
+<ul>
+
+  <li><b>Desarrollador de Bases de Datos</b><br/>
+  Desarrollador de Bases de Datos del área de Desarrollo. Colaboré en la implementación de procesos almacenados, optimización de consultas y definición de vistas.
+
+Sistema gestor de bases de datos: SQL Server.</li>
+</ul>
+
+</details>
+
+<details><summary><b>Sferea</b></summary>
+<br>
+
+<ul>
+
+ <li><b>Desarrollador Java Back-End</b><br>   
+  Desarrollador Java Backend del área de Tecnología y Desarrollo de Sistemas. Colaboré en el diseño e implementación de servicios web mediante el framework Java Spring.<br><br></li>
+
+  <li><b>Desarrollador de Bases de Datos</b><br/>
+  Desarrollador de Bases de Datos del área de Tecnología y Desarrollo de Sistemas. Colaboré en el diseño de modelos de datos, desarrollo de consultas e implementación de procedimientos almacenados.
+
+Sistemas gestores de bases de datos: Oracle, SQL Server y MySQL.</li>
+</ul>
+
+</details>
+
+
+<details><summary><b>ICAT-UNAM</b></summary>
+<br>
+
+<ul>
+
+ <li><b>Becario</b><br>   
+  Apoyo al grupo “Espacios y Sistemas Interactivos para la
+Educación” del CCADET en el diseño e implementación de una aplicación
+web que asista a los encuentros de Virtual Educa en la creación de los
+programas para sus distintos tipos de encuentros. Además de asistir en otras
+tareas como actualización de software, mantenimiento de los laboratorios,
+entre otras.<br><br></li>
+
+  <li><b>Servicio Social</b><br/>
+  Diseño e implementación de software interactivo bajo el
+enfoque de gamificación como parte de las actividades y productos del
+proyecto “Experiencias del usuario en espacios interactivos de aprendizaje no
+formal”. Además de asistir continuamente al Seminario de Videojuegos y
+Gamificación del grupo Espacios y sistemas Interactivos para la Educación.</li>
+</ul>
+
 </details>
 
 ### 🧩 Cursos impartidos
 
 <details><summary><b>Facultad de Ciencias, UNAM</b></summary>
+<br>
+<ul>
 
-- Lógica Computacional
-- Lenguajes de Programación
-- Compiladores
-- Programación Declarativa
-- Semántica y Verificación
-- Introducción a la Programación Funcional (Extracurricular)
-- Introducción a la Ciencia de Datos con Python (Extracurricular)
+<li>Lógica Computacional</li>
+<li>Lenguajes de Programación</li>
+<li>Compiladores</li>
+<li>Programación Declarativa</li>
+<li>Semántica y Verificación</li>
+<li>Introducción a la Programación Funcional (Extracurricular)</li>
+<li>Introducción a la Ciencia de Datos con Python (Extracurricular)</li>
+<li>Introducción a Ciencias de la Computación (Ayudante de laboratorio)</li>
+<li>Estructuras Discretas (Ayudante de laboratorio)</li>
+
+</ul>
+
+</details>
+
+<details><summary><b>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, UNAM</b></summary>
+<br>
+<ul>
+
+<li>Lógica Computacional (Ayudante)</li>
+
+</ul>
 
 </details>
 
 <details><summary><b>Colegio de Ciencia y Tecnología, UACM</b></summary>
+<br>
 
-- Introducción a la Programación
-- Matemáticas Discretas
-- Introducción a la Ingeniería de Software
-- Programación Orientada a Objetos
-- Estructura de Datos
-- Teoría de la Computación
-- Lenguajes de Programación
-- Computación Móvil
+<ul>
+
+<li>Introducción a la Programación</li>
+<li>Matemáticas Discretas</li>
+<li>Introducción a la Ingeniería de Software</li>
+<li>Programación Orientada a Objetos</li>
+<li>Estructura de Datos</li>
+<li>Teoría de la Computación</li>
+<li>Lenguajes de Programación</li>
+<li>Computación Móvil</li>
+
+</ul>
 
 </details>
 
 <details><summary><b>BEDU Tech, BEDU</b></summary>
-
-- Introducción a Bases de Datos
-- Procesamiento de Datos con Python
-- Análisis de Datos con Python
-- Machine Learning
-- Programación con Python
-- Java Backend Básico
-- Inteligencia Artificial Generativa
-- Inteligencia Artificial Generativa para el Análisis de Datos
-- Data Thinking
-- PostgreSQL Avanzado
-- Explorando la IA y el ML​
-
-</details>
-
-### 🙌 Charlas
-
-<details><summary><b>2024</b></summary>
-
-- Ciencia de Datos: Aplicaciones en Economía   
-  UAEH, México, mar. 2024
+<br>
+  
+<li>Introducción a Bases de Datos</li>
+<li>Procesamiento de Datos con Python</li>
+<li>Análisis de Datos con Python</li>
+<li>Machine Learning</li>
+<li>Programación con Python</li>
+<li>Java Backend Básico</li>
+<li>Inteligencia Artificial Generativa</li>
+<li>Inteligencia Artificial Generativa para el Análisis de Datos</li>
+<li>Data Thinking</li>
+<li>PostgreSQL Avanzado</li>
+<li>Explorando la IA y el ML​</li>
 
 </details>
-
-<details><summary><b>2023</b></summary>
-
-- Machine Learning con Python: Aprendizaje no supervisado   
-  UACM 11vo simposio de Ingeniería, México, oct. 2023
-
-</details>
-
-<details><summary><b>2022</b></summary>
-
-- Sesgos en el tratamiento de datos   
-  Bedu Workshops, México, may. 2022
-
-- Desarrollo de Software para la creación de productos digitales   
-  BEDU/TecMilenio. Charla informativa, México, abr. 2022
-
-- Los datos detrás de tu date   
-  BEDU Live, México, feb. 2022
-
-</details>
-
-<details><summary><b>2021</b></summary>
-
-- Machine Learning: El camino hacia la inteligencia artificial   
-  BEDU Workshops, México, oct. 2021
-
-- Análisis de Datos para Perfiles no Tecnológicos   
-  BEDU Live, México, ago. 2021
-
-- Introducción al Sistema de Tipos de Haskell   
-  Lambdada Online, Tercera Edición, México, feb. 2021
-
-</details>
-
-<details><summary><b>2020</b></summary>
-
-- Orígenes de la Programación Funcional   
-  Lambdada Online, Primera Edición, México, oct. 2020
-
-</details>
-
-<details><summary><b>2019</b></summary>
-
-- Ciencias de la Computación en la Industria   
-  Actividades de Bienvenida a la Generación 2020, Facultad de Ciencias UNAM, CDMX, México, jul. 2019
-
-- El bullying hacia la comunidad LGBT+   
-  Primera semana de la Equidad en la Facultad de Ciencias, Facultad de Ciencias UNAM, CDMX, México, abr. 2019
-
-- ¿Qué son las ciencias de la computación?
-  Jornada de Orientación Vocacional 2019, Facultad de Ciencias UNAM, CDMX, México, mar. 2019
-
-</details>
-
-<details><summary><b>2018</b></summary>
-
-- Datos infinitos con el mínimo esfuerzo   
-  IX Aquelarre Matemático, Facultad de Ciencias UNAM, CDMX, México, oct. 2018
-
-</details>
-
