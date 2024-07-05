@@ -151,7 +151,7 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 
 <ul>
 
-  <li><b>Analísta de Bases de Datos</b><br/>
+  <li><b>Analista de Bases de Datos</b><br/>
   Colaboro diseñando y desarrollando procesos ETL, bases de datos y reportes de Inteligencia de Negocios así como dar mantenimiento y soporte a proyectos previamente desarrollados.
 
 Herramientas utilizadas: SQL Server, Tableau, SQL Server Integration Services.</li>
