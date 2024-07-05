@@ -146,6 +146,19 @@ Si te interesa colaborar conmigo en algún proyecto, puedes contactarme con toda
 
 ### 🏭 Experiencia en la Industria
 
+<details><summary><b>Xperbit</b></summary>
+<br>
+
+<ul>
+
+  <li><b>Analísta de Bases de Datos</b><br/>
+  Colaboro diseñando y desarrollando procesos ETL, bases de datos y reportes de Inteligencia de Negocios así como dar mantenimiento y soporte a proyectos previamente desarrollados.
+
+Herramientas utilizadas: SQL Server, Tableau, SQL Server Integration Services.</li>
+</ul>
+
+</details>
+
 <details><summary><b>DGAPA-UNAM</b></summary>
 <br>
 
