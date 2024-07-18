@@ -2,8 +2,6 @@
 
 👨‍🏫 **Actualmente estoy enseñando**   
 
-- Explorando la IA y el ML​ (BEDU, BEDU Tech)
-
 🧐 **Actualmente estoy aprendiendo**
 
 - Inglés Nivel 4 (Idiomas CUC)
@@ -286,6 +284,6 @@ Gamificación del grupo Espacios y sistemas Interactivos para la Educación.</li
 <li>Inteligencia Artificial Generativa para el Análisis de Datos</li>
 <li>Data Thinking</li>
 <li>PostgreSQL Avanzado</li>
-<li>Explorando la IA y el ML​</li>
+<li>Explorando la IA y el ML: Introducción​</li>
 
 </details>
