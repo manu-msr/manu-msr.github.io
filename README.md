@@ -2,6 +2,8 @@
 
 👨‍🏫 **Actualmente estoy enseñando**   
 
+- Explorando la IA y el ML: Experimentando con herramientas sin código​ (BEDU, BEDU Tech)
+
 🧐 **Actualmente estoy aprendiendo**
 
 - Inglés Nivel 4 (Idiomas CUC)
