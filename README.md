@@ -289,5 +289,6 @@ Gamificación del grupo Espacios y sistemas Interactivos para la Educación.</li
 <li>Data Thinking</li>
 <li>PostgreSQL Avanzado</li>
 <li>Explorando la IA y el ML: Introducción​</li>
+<li>Explorando la IA y el ML: Experimentando con herramientas sin código</li>
 
 </details>
