@@ -2,7 +2,7 @@
 
 👨‍🏫 **Actualmente estoy enseñando**   
 
-- [Lenguajes de Programación (FCiencias UNAM)](http://lambdasspace.github.io/LDP)
+- Lenguajes de Programación (FCiencias UNAM)
 - Diseño de Lenguajes de Programación Basados en Cálculo Lambda (Ayudante, IIMAS UNAM) 
 
 🧐 **Actualmente estoy aprendiendo**
