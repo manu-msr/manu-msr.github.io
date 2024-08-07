@@ -2,7 +2,8 @@
 
 👨‍🏫 **Actualmente estoy enseñando**   
 
-- Explorando la IA y el ML: Experimentando con herramientas sin código​ (BEDU, BEDU Tech)
+- [Lenguajes de Programación (FCiencias UNAM)](http://lambdasspace.github.io/LDP)
+- Diseño de Lenguajes de Programación Basados en Cálculo Lambda (Ayudante, IIMAS UNAM) 
 
 🧐 **Actualmente estoy aprendiendo**
 
@@ -250,6 +251,7 @@ Gamificación del grupo Espacios y sistemas Interactivos para la Educación.</li
 <ul>
 
 <li>Lógica Computacional (Ayudante)</li>
+<li>Diseño de Lenguajes de Programación Basados en Cálculo Lambda (Ayudante)</li>
 
 </ul>
 
