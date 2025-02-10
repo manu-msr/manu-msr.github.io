@@ -18,13 +18,13 @@ My academic background includes a Bachelor's degree in Computer Science from UNA
 
 In the professional field, I work as a Data Engineer at Xperbit, where I design and develop ETL processes, interactive dashboards, and machine learning models. I have led the migration of dashboards from Tableau to Plotly Dash and developed an internal Python library to streamline dashboard creation. My experience combines practical data-driven solutions with the development of educational materials and team training.
 
-## 🎯 Áreas de Interés
+## 🎯 Areas of Interest
 
 My research interests include computational logic, programming language theory, and their formalization through the Curry-Howard correspondence. I focus on formal verification using proof assistants such as Coq, the development and optimization of SAT-solvers, and exploring the foundations of functional programming. I am also interested in the connection between automated reasoning and machine learning, as well as the role of computational ethics in the responsible development of emerging technologies.
 
 I am keen to collaborate on research projects focused on the implementation and improvement of SAT-solvers, exploring their relationship with automated reasoning and applications in areas such as artificial intelligence and urban mobility.
 
-## 📩 Contacto
+## 📩 Contact
 
 Manuel Soto Romero   
 Correo: [manu@ciencias.unam.mx](manu@ciencias.unam.mx)   
