@@ -27,6 +27,6 @@ I am keen to collaborate on research projects focused on the implementation and 
 ## 📩 Contacto
 
 Manuel Soto Romero   
-Correo: manu@ciencias.unam.mx   
-GitHub: https://github.com/manu-msr/   
-Blog: https://medium.com/@lambdaspace   
+Correo: [manu@ciencias.unam.mx](manu@ciencias.unam.mx)   
+GitHub: [https://github.com/manu-msr/](https://github.com/manu-msr/)   
+Blog: [https://medium.com/@lambdaspace](https://medium.com/@lambdaspace)   
