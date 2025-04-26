@@ -1,7 +1,7 @@
 # Manuel Soto Romero 
 <img src="imagenes/perfil.jpeg" align="right" heigth="30%" width="25%" hspace="70" vspace="10">
 
-Actualizado al: 7 de febrero de 2025   
+Actualizado al: 25 de abril de 2025   
 [*English Version*](en)
 
 - [Publicaciones](publicaciones.md)
