@@ -4,7 +4,7 @@
 Actualizado al: 7 de febrero de 2025   
 [*English Version*](en)
 
-- Publicaciones
+- [Publicaciones](publicaciones.md)
 - Docencia
 - Experiencia Profesional
 - Temas de Tesis
