@@ -1,5 +1,8 @@
 # Manuel Soto Romero 
-### *Docencia*
+### *Teaching*   
+[← Regresar](README.md)
+
+Courses taught in Spanish, in Mexico City.
 
 ---
 
@@ -43,3 +46,5 @@
 - Computación Móvil
 
 ---
+
+[← Regresar](README.md)

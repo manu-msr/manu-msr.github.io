@@ -1,30 +1,29 @@
 # Manuel Soto Romero 
 <img src="imagenes/perfil.jpeg" align="right" heigth="30%" width="25%" hspace="70" vspace="10">
 
-Actualizado al: 26 de abril de 2025   
-[*English Version*](en)
+Updated on: May 3, 2025
 
-- [Publicaciones](publicaciones.md)
-- [Docencia](docencia.md)
-- Experiencia Profesional
-- Temas de Tesis
-- Pláticas
+- [Publications](publications.md)
+- [Teaching](teaching.md)
+- [Professional Experience](professional.md)
+- Thesis Topics
+- Talks
 
-## 🌿 Semblanza
+## 🌿 About Me
 
-Actualmente, soy profesor de asignatura en la Facultad de Ciencias de la Universidad Nacional Autónoma de México (UNAM), donde imparto cursos relacionados con la lógica computacional, la teoría de lenguajes de programación y verificación formal. Algunos de los cursos que he impartido son Lenguajes de Programación, Lógica Computacional, Compiladores, Programación Declarativa y Semántica y Verificación.
+I am currently a lecturer at the *Facultad de Ciencias* of the *Universidad Nacional Autónoma de México* (UNAM), where I teach courses related to computational logic, programming language theory, and formal verification. Some of the courses I have taught include Programming Languages, Computational Logic, Compilers, Declarative Programming, and Semantics and Verification.
 
-Mi formación es la siguiente: Licenciado en Ciencias de la Computación de la UNAM (2019) y Maestro en Ciencia e Ingeniería de la Computación por el IIMAS de la UNAM (2023).
+My academic background includes a Bachelor's degree in Computer Science from UNAM (2019) and a Master’s degree in Computer Science and Engineering from IIMAS at UNAM (2023).
 
-En el ámbito profesional, me desempeño como *Data Engineer* en Xperbit, donde diseño y desarrollo procesos ETL, dashboards interactivos y modelos de *machine learning*. He liderado la migración de dashboards de Tableau a Plotly Dash y creado una biblioteca interna en Python para facilitar su desarrollo. Mi experiencia combina el diseño de soluciones prácticas en el manejo de datos con el desarrollo de materiales educativos y la capacitación de equipos.
+In the professional field, I work as a Data Engineer at Xperbit, where I design and develop ETL processes, interactive dashboards, and machine learning models. I have led the migration of dashboards from Tableau to Plotly Dash and developed an internal Python library to streamline dashboard creation. My experience combines practical data-driven solutions with the development of educational materials and team training.
 
-## 🎯 Áreas de Interés
+## 🎯 Areas of Interest
 
-Mis intereses de investigación abarcan la lógica computacional, la teoría de lenguajes de programación y su formalización mediante la correspondencia de Curry-Howard. Me enfoco en la verificación formal usando asistentes de prueba como Coq, el desarrollo y optimizaciónde *SAT-solvers* y la exploración de los fundamentos de la programación funcional. También me interesa la conexión entre el razonamiento automatizado y el aprendizaje automático, así como la ética computacional y su impacto en el desarrollo responsable de tecnologías emergentes.
+My research interests include computational logic, programming language theory, and their formalization through the Curry-Howard correspondence. I focus on formal verification using proof assistants such as Coq, the development and optimization of SAT-solvers, and exploring the foundations of functional programming. I am also interested in the connection between automated reasoning and machine learning, as well as the role of computational ethics in the responsible development of emerging technologies.
 
-Me interesa colaborar en proyectos de investigación enfocados en la implementación y mejora de *SAT-solvers*, explorando su relación con el razonamiento automatizado y su aplicación en áreas como la inteligencia artificial y la movilidad urbana.
+I am keen to collaborate on research projects focused on the implementation and improvement of SAT-solvers, exploring their relationship with automated reasoning and applications in areas such as artificial intelligence and urban mobility.
 
-## 📩 Contacto
+## 📩 Contact
 
 Manuel Soto Romero   
 Correo: [manu@ciencias.unam.mx](manu@ciencias.unam.mx)   
