@@ -1,6 +1,6 @@
 <p align=right> Students | Résumé </p>
 
-<img href="https://avatars.githubusercontent.com/u/15841718?v=4" align=left >
+<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align=left width="21%" height="21%" vspace=22 hspace=10>
 
 Profesor de Asignatura A   
 Universidad Nacional Autónoma de México   
