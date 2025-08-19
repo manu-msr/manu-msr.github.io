@@ -1,6 +1,4 @@
-<p align=right> Teaching Experience | Industry Experience | Students | Complete Résumé </p>
-
-# Manuel Soto Romero 
+<p align=right> Students | Résumé </p>
 
 Profesor de Asignatura A   
 Universidad Nacional Autónoma de México   
