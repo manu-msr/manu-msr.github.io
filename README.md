@@ -19,9 +19,9 @@ manu@ciencias.unam.mx
 
 Courses Taught in Spanish at the Faculty of Sciences, UNAM
 
-- Computational Logic
-- Programming Languages
-- Compilers
+- [Computational Logic](https://lambdasspace.github.io/LC)
+- [Programming Languages](https://lambdasspace.github.io/LDP)
+- [Compilers](https://lambdasspace.github.io/CMP)
 - Semantics and Verification
 - Declarative Programming
 
