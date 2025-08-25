@@ -1,4 +1,4 @@
-<p align=right> Students | Résumé </p>
+<p align=right> <a href="students/README.md">Students</a> | Résumé </p>
 
 <img src="https://avatars.githubusercontent.com/u/15841718?v=4" align=left width="21%" height="21%" vspace=22 hspace=10>
 
@@ -25,7 +25,7 @@ Courses Taught in Spanish at the Faculty of Sciences, UNAM
 - Semantics and Verification
 - Declarative Programming
 
-Students
+[Students](students/README.md)
 
 ## Research
 
