@@ -31,23 +31,27 @@ Students
 
 ### Publications
 
-- Manuel Soto Romero, Yoshua I. Alfaro Mendoza, David A. Nieto Andrade. *Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura* Avances en Interacción Humano-Computadora, [S.l.], v. 1, n. 1, p. 30-32, sep. 2016.
+- M. Soto Romero, Y. I. Alfaro Mendoza, and D. A. Nieto Andrade, “Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura,” *Avances en Interacción Humano-Computadora*, vol. 1, no. 1, pp. 30–32, Sep. 2016.
 
 ### Thesis
 
-- *Seguridad de Sistemas de Tipos vía Verificación de Modelos*. Tesis, Maestro en Ciencia e Ingeniería de la Computación. Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas UNAM, oct. 2023
-- *Manual de prácticas para la asignatura de Programación Declarativa*. Proyecto de titulacion de apoyo a la docencia, Licenciado en Ciencias de la Computación. Facultad de Ciencias UNAM, sep. 2019
+- M. Soto Romero, *Seguridad de Sistemas de Tipos vía Verificación de Modelos*. Master’s Thesis, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, UNAM, Oct. 2023.  
+- M. Soto Romero, *Manual de prácticas para la asignatura de Programación Declarativa*. Bachelor’s Thesis, Facultad de Ciencias, UNAM, Sep. 2019.
 
 ### Talks
 
-- *Sesgos en el tratamiento de datos*. Bedu Workshops, México, may. 2022
-- *Desarrollo de Software para la creación de productos digitales.* BEDU/TecMilenio. Charla informativa, México, abr. 2022
-- Los datos detrás de tu date. BEDU Live, México, feb. 2022
-- *Machine Learning: El camino hacia la inteligencia artificial*. BEDU Workshops, México, oct. 2021
-- *Análisis de Datos para Perfiles no Tecnológicos.* BEDU Live, México, ago. 2021
-- *Introducción al Sistema de Tipos de Haskell*. Lambdada Online, Tercera Edición, México, feb. 2021
-- *Orígenes de la Programación Funcional*. Lambdada Online, Primera Edición, México, oct. 2020
-- *Ciencias de la Computación en la Industria*. Actividades de Bienvenida a la Generación 2020, Facultad de Ciencias UNAM, CDMX, México, jul. 2019
-- *El bullying hacia la comunidad LGBT+*. Primera semana de la Equidad en la Facultad de Ciencias, Facultad de Ciencias UNAM, CDMX, México, abr. 2019
-- *¿Qué son las Ciencias de la Computación?*. Jornada de Orientación Vocacional 2019, Facultad de Ciencias UNAM, CDMX, México, mar. 2019
-- *Datos infinitos con el mínimo esfuerzo*. IX Aquelarre Matemático, Facultad de Ciencias UNAM, CDMX, México, oct. 2018
+- M. Soto Romero, “Ciencia de Datos y sus aplicaciones en Economía,” ANEE-UAEH, Mexico, Mar. 2024.  
+- M. Soto Romero, “¿Cuál es el futuro de la ciencia de datos para 2024?,” Bedu Workshops, Mexico, Oct. 2023.  
+- M. Soto Romero, “Científico de datos: ¿Qué tareas hace, qué habilidades necesita, ¿cuánto gana?,” Bedu Workshops, Mexico, Sep. 2023.  
+- M. Soto Romero, “Java: El lenguaje que está en todos lados,” Bedu Workshops, Mexico, Jun. 2022.  
+- M. Soto Romero, “Sesgos en el tratamiento de datos,” Bedu Workshops, Mexico, May 2022.  
+- M. Soto Romero, “Desarrollo de Software para la creación de productos digitales,” BEDU/TecMilenio, Mexico, Apr. 2022.  
+- M. Soto Romero, “Los datos detrás de tu date,” BEDU Live, Mexico, Feb. 2022.  
+- M. Soto Romero, “Machine Learning: El camino hacia la inteligencia artificial,” Bedu Workshops, Mexico, Oct. 2021.  
+- M. Soto Romero, “Análisis de Datos para Perfiles no Tecnológicos,” BEDU Live, Mexico, Aug. 2021.  
+- M. Soto Romero, “Introducción al Sistema de Tipos de Haskell,” Lambdada Online, Third Edition, Mexico, Feb. 2021.  
+- M. Soto Romero, “Orígenes de la Programación Funcional,” Lambdada Online, First Edition, Mexico, Oct. 2020.  
+- M. Soto Romero, “Ciencias de la Computación en la Industria,” Welcome Activities for the 2020 Generation, Facultad de Ciencias, UNAM, Mexico City, Mexico, Jul. 2019.  
+- M. Soto Romero, “El bullying hacia la comunidad LGBT+,” First Week of Equity, Facultad de Ciencias, UNAM, Mexico City, Mexico, Apr. 2019.  
+- M. Soto Romero, “¿Qué son las Ciencias de la Computación?,” Vocational Orientation Day 2019, Facultad de Ciencias, UNAM, Mexico City, Mexico, Mar. 2019.  
+- M. Soto Romero, “Datos infinitos con el mínimo esfuerzo,” IX Aquelarre Matemático, Facultad de Ciencias, UNAM, Mexico City, Mexico, Oct. 2018.
