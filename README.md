@@ -1,6 +1,6 @@
-<p align=right> <a href="students">Students</a> | Résumé </p>
+<!-- <p align=right> <a href="students">Students</a> | Résumé </p> -->
 
-<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align=left width="21%" height="21%" vspace=22 hspace=10>
+<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="20%" height="50%" vspace=22 hspace=10>
 
 Profesor de Asignatura A   
 Universidad Nacional Autónoma de México   
@@ -24,6 +24,9 @@ Courses Taught in Spanish at the Faculty of Sciences, UNAM
 - [Compilers](https://lambdasspace.github.io/CMP)
 - Semantics and Verification
 - Declarative Programming
+- Introduction to Functional Programming (Extracurricular Course - 1 week)
+- Introduction to Data Science with Python (Extracurricular Course - 1 week)
+- Artificial Intelligence: Fundamental, Uses, and Ethical Challenges (Extracurricular Course - 1 week)
 
 [Students](students/)
 
