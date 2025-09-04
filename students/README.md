@@ -20,8 +20,7 @@
 - A. L. Barbosa Carranza, *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, November 30, 2021.
 
 ## Mandatory University Social Service Program (Servicio Social)
-
-- J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, (doing).
+  
 - L. F. Loyola Cruz, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2023.
 
-
+- J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, (doing).
