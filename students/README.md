@@ -1,5 +1,9 @@
+> **Invitation to collaborate (in Spanish)**
+>
+> Si tienes interés en colaborar conmigo en un proyecto de titulación de licenciatura o en el Servicio Social, estoy abierto a propuestas que vinculen mis áreas de investigación con resultados prácticos. Los principales temas en los que dirijo proyectos incluyen Lenguajes de Programación, Teoría de Compiladores, Programación Funcional, Lógica Computacional, Ética de la Inteligencia Artificial y Ciencia de Datos. Dependiendo de la orientación del trabajo, los productos esperados pueden ir desde prototipos de software (por ejemplo, bibliotecas en Haskell, herramientas educativas, compiladores experimentales), materiales de apoyo docente (manuales, ejercicios o guías para cursos), hasta estudios de investigación (revisiones sistemáticas, estudios de caso aplicados o evaluaciones empíricas). Mi invitación es a desarrollar proyectos que fortalezcan tanto la formación teórica como las aportaciones concretas a la comunidad académica o a la sociedad. Envíame un correo y lo platicamos. :)
+
+
 ## Thesis Advisor
-*Thesis Advsior*
 
 - L. F. Loyola Cruz, *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
 
@@ -19,3 +23,5 @@
 
 - J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, (doing).
 - L. F. Loyola Cruz, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2023.
+
+
