@@ -43,7 +43,8 @@ Courses Taught in Spanish at the Faculty of Sciences, UNAM
 
 ### Talks
 
-- M. Soto Romero, “Ciencia de Datos y sus aplicaciones en Economía,” ANEE-UAEH, Mexico, Mar. 2024.  
+- M. Soto Romero, “Ciencia de Datos y sus aplicaciones en Economía,” ANEE-UAEH, Mexico, Mar. 2024.
+- M. Soto Romero, "Machine Learning con Python: Aprendizaje no supervisado," Siposio de Ingeniería UACM, México, Oct. 2023.
 - M. Soto Romero, “¿Cuál es el futuro de la ciencia de datos para 2024?,” Bedu Workshops, Mexico, Oct. 2023.  
 - M. Soto Romero, “Científico de datos: ¿Qué tareas hace, qué habilidades necesita, ¿cuánto gana?,” Bedu Workshops, Mexico, Sep. 2023.  
 - M. Soto Romero, “Java: El lenguaje que está en todos lados,” Bedu Workshops, Mexico, Jun. 2022.  
