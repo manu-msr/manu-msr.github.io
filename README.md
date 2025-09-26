@@ -1,5 +1,3 @@
-<!-- <p align=right> <a href="students">Students</a> | Résumé </p> -->
-
 <img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="20%" height="50%" vspace=22 hspace=10>
 
 Profesor de Asignatura A   
@@ -11,9 +9,19 @@ M.Sc. in Computer Science and Engineering, Universidad Nacional Autónoma de Mé
 **Research Interets**   
 Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Artificial Intelligence Ethics, Data Science.
 
+<p>
+If you’d like to explore my Data Science portfolio, visit <a href="databites"><b>Data Bites 🍪</b></a>, 
+where I share a new solved problem every week.
+</p>
+
 ## Contact
 
 manu@ciencias.unam.mx
+
+<p>
+For more about my professional and industry experience, 
+visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn profile</a>.
+</p>
 
 ## Teaching
 
