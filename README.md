@@ -9,11 +9,6 @@ M.Sc. in Computer Science and Engineering, Universidad Nacional Autónoma de Mé
 **Research Interets**   
 Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Artificial Intelligence Ethics, Data Science.
 
-<p>
-If you’d like to explore my Data Science portfolio, visit <a href="databites"><b>Data Bites 🍪</b></a>, 
-where I share a new solved problem every week.
-</p>
-
 ## Contact
 
 manu@ciencias.unam.mx
