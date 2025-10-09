@@ -7,6 +7,8 @@
 
 - L. F. Loyola Cruz, *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
 
+- L. D. López Monroy, *Manual de prácticas de laboratorio para la enseñanza de la ética computacional en ciencias de la computación*.  Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
+- M. A. Orduña Avila, *Implementación de Soluciones de Verifiación Biométrica y Firma Autógrafa Digital (FAD) en Naat Technologies*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - E. Rangel Limón, *Joy: just Optimized Yielder – Generación Automática de Pruebas para Gramáticas en Haskell*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - J. A. Pérez Márquez, *Manual de ejercicios teóricos para Lógica Computacional*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - E. D. Arroyo Martínez, *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
