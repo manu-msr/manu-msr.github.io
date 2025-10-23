@@ -3,15 +3,19 @@
 > Si tienes interés en colaborar conmigo en un proyecto de titulación de licenciatura o en el Servicio Social, estoy abierto a propuestas que vinculen mis áreas de investigación con resultados prácticos. Los principales temas en los que dirijo proyectos incluyen Lenguajes de Programación, Teoría de Compiladores, Programación Funcional, Lógica Computacional, Ética de la Inteligencia Artificial y Ciencia de Datos. Dependiendo de la orientación del trabajo, los productos esperados pueden ir desde prototipos de software (por ejemplo, bibliotecas en Haskell, herramientas educativas, compiladores experimentales), materiales de apoyo docente (manuales, ejercicios o guías para cursos), hasta estudios de investigación (revisiones sistemáticas, estudios de caso aplicados o evaluaciones empíricas). Mi invitación es a desarrollar proyectos que fortalezcan tanto la formación teórica como las aportaciones concretas a la comunidad académica o a la sociedad. Envíame un correo y lo platicamos. :)
 
 
-## Thesis Advisor
+## Thesis advisor
 
+*Former students*
+
+- E. D. Arroyo Martínez, *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025. **Passed with Distinction**.
 - L. F. Loyola Cruz, *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
+
+*Current students*
 
 - L. D. López Monroy, *Manual de prácticas de laboratorio para la enseñanza de la ética computacional en ciencias de la computación*.  Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - M. A. Orduña Avila, *Implementación de Soluciones de Verifiación Biométrica y Firma Autógrafa Digital (FAD) en Naat Technologies*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - E. Rangel Limón, *Joy: just Optimized Yielder – Generación Automática de Pruebas para Gramáticas en Haskell*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - J. A. Pérez Márquez, *Manual de ejercicios teóricos para Lógica Computacional*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
-- E. D. Arroyo Martínez, *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - A. Vargas Alba, *Aplicación y gestión de las ciencias de la computación en la cobranza*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 
 ## Thesis examiner
@@ -22,7 +26,11 @@
 - A. L. Barbosa Carranza, *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, November 30, 2021.
 
 ## Mandatory University Social Service Program (Servicio Social)
+
+*Former students*
   
 - L. F. Loyola Cruz, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2023.
 
+*Current students*
+   
 - J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, (doing).
