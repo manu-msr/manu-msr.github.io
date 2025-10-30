@@ -46,6 +46,7 @@ Courses Taught in Spanish at the Faculty of Sciences, UNAM
 
 ### Talks
 
+- M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, *Relational perspectives and algorithmic biases in the use of artificial intelligence in educational contexts*, International Conference on Philosofy of Computing, México, Oct. 2025.
 - M. Soto Romero, *Ciencia de Datos y sus aplicaciones en Economía*, ANEE-UAEH, Mexico, Mar. 2024.
 - M. Soto Romero, *Machine Learning con Python: Aprendizaje no supervisado*, Simposio de Ingeniería UACM, México, Oct. 2023.
 - M. Soto Romero, *¿Cuál es el futuro de la ciencia de datos para 2024?*, Bedu Workshops, Mexico, Oct. 2023.  
