@@ -7,7 +7,7 @@ Departamento de Matemáticas
 M.Sc. in Computer Science and Engineering, Universidad Nacional Autónoma de México (UNAM), Mexico City, 2023.   
 
 **Research Interets**   
-Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Computational Ethics.
+Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Philosofy of Computing.
 
 ## Contact
 
