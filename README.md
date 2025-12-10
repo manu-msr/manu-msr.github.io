@@ -19,17 +19,10 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 </p>
 
 ## Teaching
+*Under construction*
 
-Courses Taught in Spanish at the Faculty of Sciences, UNAM
-
-- [Computational Logic](https://lambdasspace.github.io/LC)
-- [Programming Languages](https://lambdasspace.github.io/LDP)
-- [Compilers](https://lambdasspace.github.io/CMP)
-- Semantics and Verification
-- Declarative Programming
-- Introduction to Functional Programming (Extracurricular Course - 1 week)
-- Introduction to Data Science with Python (Extracurricular Course - 1 week)
-- Artificial Intelligence: Fundamental, Uses, and Ethical Challenges (Extracurricular Course - 1 week)
+- Courses Taught in Spanish at the Faculty of Sciences, UNAM
+- Courses Taught in Spanish at the College of Science and Technology, UACM
 
 [Students](students/)
 
