@@ -7,7 +7,7 @@ Departamento de Matemáticas
 M.Sc. in Computer Science and Engineering, Universidad Nacional Autónoma de México (UNAM), Mexico City, 2023.   
 
 **Research Interets**   
-Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Artificial Intelligence Ethics, Data Science.
+Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Computational Ethics.
 
 ## Contact
 
@@ -19,10 +19,11 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 </p>
 
 ## Teaching
-*Under construction*
+Courses Taught in Spanish:
 
-- Courses Taught in Spanish at the Faculty of Sciences, UNAM
-- Courses Taught in Spanish at the College of Science and Technology, UACM
+| UNAM - Facultad de Ciencias |
+| :- | 
+| Lógica Computacional <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
 
 [Students](students/)
 
