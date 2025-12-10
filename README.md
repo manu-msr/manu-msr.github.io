@@ -1,11 +1,5 @@
 <img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="20%" height="50%" vspace=22 hspace=10>
-
-Profesor de Asignatura A   
-Universidad Nacional Autónoma de México   
-Facultad de Ciencias   
-Departamento de Matemáticas   
-M.Sc. in Computer Science and Engineering, Universidad Nacional Autónoma de México (UNAM), Mexico City, 2023.   
-
+  
 **Research Interets**   
 Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Philosofy of Computing.
 
@@ -21,7 +15,7 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 ## Teaching
 Courses Taught in Spanish:
 
-| UNAM - Facultad de Ciencias |
+| [UNAM - Science Faculty](https://www.fciencias.unam.mx/directorio/74224) |
 | :- | 
 | Lógica Computacional <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
 
