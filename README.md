@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="20%" height="50%" vspace=22 hspace=10>
   
 **Research Interets**   
-Programming Languages, Compiler Theory, Functional Programming, Computational Logic, Philosofy of Computing.
+Theory and Philosofy of Computing.
 
 ## Contact
 
@@ -15,9 +15,9 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 ## Teaching
 Courses Taught in Spanish:
 
-| [UNAM - Science Faculty](https://www.fciencias.unam.mx/directorio/74224) |
-| :- | 
-| Lógica Computacional <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
+| UACM - College of Science and Technology | UNAM - Science Faculty |
+| :- | :- | 
+| <a href="https://lambdasspace.github.io/IP/" target="_blank">Introducción a la Programación</a> <br> Análisis de Algoritmos | <a href="https://lambdasspace.github.io/LC/" targe="_blank">Lógica Computacional</a> <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
 
 [Students](students/)
 
