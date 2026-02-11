@@ -12,6 +12,7 @@
 
 *Current students*
 
+- B. Martínez Enríquez, *Sistema de verificación de tipos para consultas MongoDB inspirado en el marco formal TRAF*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - L. D. López Monroy, *Manual de prácticas de laboratorio para la enseñanza de la ética computacional en ciencias de la computación*.  Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - M. A. Orduña Avila, *Implementación de Soluciones de Verifiación Biométrica y Firma Autógrafa Digital (FAD) en Naat Technologies*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - E. Rangel Limón, *Joy: just Optimized Yielder – Generación Automática de Pruebas para Gramáticas en Haskell*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
