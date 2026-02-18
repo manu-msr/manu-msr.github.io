@@ -17,7 +17,7 @@ Courses Taught in Spanish:
 
 | UACM - College of Science and Technology | UNAM - Science Faculty |
 | :- | :- | 
-| <a href="https://lambdasspace.github.io/IP/" target="_blank">Introducción a la Programación</a> <br> Análisis de Algoritmos | <a href="https://lambdasspace.github.io/LC/" targe="_blank">Lógica Computacional</a> <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
+| <a href="https://lambdasspace.github.io/IP/" target="_blank">Introducción a la Programación</a> <br> <a href="https://lambdasspace.github.io/ADA/" targe="_blank">Análisis de Algoritmos</a> | <a href="https://lambdasspace.github.io/LC/" targe="_blank">Lógica Computacional</a> <br> Lenguajes de Programación <br> Compiladores <br> Programación Declarativa <br> Semántica y Verificación
 
 [Students](students/)
 
