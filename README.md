@@ -1,7 +1,13 @@
 ## About
 
-<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="20%" height="50%" vspace=22 hspace=10>
-I am a computer scientist and I obtained my Master’s degree (2023) in Computer Science and Engineering from the National Autonomous University of Mexico (UNAM), at the Institute for Applied Mathematics and Systems Research (IIMAS). Previously, I earned my Bachelor’s degree (2019) in Computer Science from the Faculty of Science at UNAM. My research is structured around two complementary areas. On one hand, I work in Theory of Computation, focusing on the formal foundations of computer science, including computability, formal languages, semantics, and the mathematical structure of programming languages. On the other hand, I develop research in Sociotechnical Evaluation of Computational Systems, examining how computational systems, algorithms, and digital infrastructures interact with social contexts and may reproduce structural biases and inequalities. Since 2026, I have been a Full-Time Research and Teaching Faculty Member at the Universidad Autónoma de la Ciudad de México (UACM), within the College of Science and Technology, and I also teach at the Faculty of Science at UNAM.
+<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="30%" height="68%" vspace=22 hspace=10>
+
+I am a computer scientist with a Master’s degree (2023) in Computer Science and Engineering from the Universidad Nacional Autónoma de México (UNAM), completed at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS). I previously earned my Bachelor’s degree (2019) in Computer Science from the Faculty of Science at UNAM.
+
+My research is organized into two complementary areas. First, I work in Theory of Computation, focusing on the formal foundations of computer science, including computability, formal languages, semantics, and the mathematical structure of programming languages. Second, I study the Sociotechnical Evaluation of Computational Systems, analyzing how algorithms and digital infrastructures interact with social contexts and may reproduce structural biases and inequalities.
+
+Since 2026, I have been a Full-Time Research and Teaching Faculty Member at the Universidad Autónoma de la Ciudad de México (UACM), within the College of Science and Technology, and I also teach at UNAM’s Faculty of Science.
+
 
 ## Contact
 
