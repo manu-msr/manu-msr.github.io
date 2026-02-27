@@ -11,7 +11,7 @@ Since 2026, I have been a Full-Time Research and Teaching Faculty Member at the 
 
 ## Contact
 
-manu@ciencias.unam.mx
+manuel.soto@uacm.edu.mx
 
 <p>
 For more about my professional and industry experience, 
