@@ -12,7 +12,7 @@
 
 *Current students*
 
-- V. M. Barbosa Martínes, *Diseño e Implementación de un Lenguaje de Dominio Específico (DSL) para la Integración Eficiente de Datos Heterogéneos en Sistemas de Reporte Crediticio*. Bachelor's Thesis, Bachelor's Degree in Actuarial Science, Facultad de Ciencias, UNAM, (under review).
+- V. M. Barbosa Martínez, *Diseño e Implementación de un Lenguaje de Dominio Específico (DSL) para la Integración Eficiente de Datos Heterogéneos en Sistemas de Reporte Crediticio*. Bachelor's Thesis, Bachelor's Degree in Actuarial Science, Facultad de Ciencias, UNAM, (under review).
 - E. S. Berber Gutiérrez, *Diseño ético de sistemas de recomendación y moderación en redes sociales para la protección del bienestar emocional: estudio empírico de exposición a contenido negativo y experiencias de personas usuarias en México*, Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - B. Martínez Enríquez, *Sistema de verificación de tipos para consultas MongoDB inspirado en el marco formal TRAF*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - L. D. López Monroy, *Manual de prácticas de laboratorio para la enseñanza de la ética computacional en ciencias de la computación*.  Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
