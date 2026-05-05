@@ -1,6 +1,6 @@
 > **Invitation to collaborate (in Spanish)**
 >
-> Si tienes interés en colaborar conmigo en un proyecto de titulación de licenciatura, estoy abierto a propuestas que vinculen mis áreas de investigación con resultados prácticos. Los principales temas en los que dirijo proyectos incluyen Lenguajes de Programación, Teoría de Compiladores, Programación Funcional, Lógica Computacional y Filosofía de la Computación. Dependiendo de la orientación del trabajo, los productos esperados pueden ir desde prototipos de software, materiales de apoyo docente, hasta estudios de investigación. Mi invitación es a desarrollar proyectos que fortalezcan tanto la formación teórica como las aportaciones concretas a la comunidad académica o a la sociedad. Envíame un correo y lo platicamos. :)
+> Si tienes interés en colaborar conmigo en un proyecto de titulación de licenciatura, estoy abierto a propuestas que vinculen mis áreas de investigación con resultados prácticos. Los principales temas en los que dirijo proyectos incluyen Lenguajes de Programación, Teoría de Compiladores, Programación Funcional, Lógica Computacional y Evaluación de Sistemas Sociotécnicos, particularmente en torno al análisis crítico y ético de sistemas de Inteligencia Artificial. Dependiendo de la orientación del trabajo, los productos esperados pueden ir desde prototipos de software y herramientas de análisis, hasta materiales de apoyo docente o estudios de investigación aplicada. Mi invitación es a desarrollar proyectos que fortalezcan tanto la formación teórica como las aportaciones concretas a la comunidad académica o a la sociedad. Envíame un correo y lo platicamos. :)
 
 
 ## Thesis advisor
@@ -12,6 +12,7 @@
 
 *Current students*
 
+- A. Casas Espinoza, *Sesgo socioeconómico en modelos de clasificación automática de texto: un enfoque sociotécnico para su detección y medición*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - V. M. Barbosa Martínez, *Diseño e Implementación de un Lenguaje de Dominio Específico (DSL) para la Integración Eficiente de Datos Heterogéneos en Sistemas de Reporte Crediticio*. Bachelor's Thesis, Bachelor's Degree in Actuarial Science, Facultad de Ciencias, UNAM, (under review).
 - E. S. Berber Gutiérrez, *Diseño ético de sistemas de recomendación y moderación en redes sociales para la protección del bienestar emocional: estudio empírico de exposición a contenido negativo y experiencias de personas usuarias en México*, Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - B. Martínez Enríquez, *Sistema de verificación de tipos para consultas MongoDB inspirado en el marco formal TRAF*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
