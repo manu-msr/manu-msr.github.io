@@ -24,11 +24,11 @@
 
 ## Thesis examiner
 
-- L. M. Muñoz Barón, *Manual de ejercicios para la materia lenguajes de programación*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, April 7, 2026.   
-- J. R. Desales Santos, *Desarrollo y mantenimiento de un sistema controlador de versiones y gestor de configuración: ClearCase/VersionVault*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, June 24, 2025.  
-- D. L. Nicolás Pavia, *Notas para Compiladores*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, October 24, 2024.  
-- N. Kano Chavira, *Extensión de la biblioteca “pICNIK” para incluir la simulación de modelos de reacción*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, September 24, 2024.  
-- A. L. Barbosa Carranza, *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, November 30, 2021.
+- L. M. Muñoz Barón, *Manual de ejercicios para la materia lenguajes de programación*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2026.   
+- J. R. Desales Santos, *Desarrollo y mantenimiento de un sistema controlador de versiones y gestor de configuración: ClearCase/VersionVault*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025.  
+- D. L. Nicolás Pavia, *Notas para Compiladores*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2024.  
+- N. Kano Chavira, *Extensión de la biblioteca “pICNIK” para incluir la simulación de modelos de reacción*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2024.  
+- A. L. Barbosa Carranza, *Registro, Modificación y Auditorías en el Sistema de Control Escolar para Cursos y Diplomados (SICECD)*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2021.
 
 ## Mandatory University Social Service Program (Servicio Social)
 
