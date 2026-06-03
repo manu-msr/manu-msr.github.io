@@ -28,7 +28,8 @@ Courses Currently Taught (in Spanish):
 
 ## Research
 
-- 🎤 M. Soto Romero, K. Ramírez Pulido, *Sesgo Algorítmico: Una mirada ética y con Perspectiva de Género en la Inteligencia Artificial*, International Congress of Philosophy, México, Dic. 2025.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, *Situated Algorithmic Justice Assesment (SAJA): A Metodology for Community-Grounded Evaluation of Artificial Intelligence Systems*, XVIII Congreso Mexicano de Inteligencia Artificial, México, May. 2026.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, *Sesgo Algorítmico: Una mirada ética y con Perspectiva de Género en la Inteligencia Artificial*, XXII Congreso Internacional de Filosofía, México, Dic. 2025.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, *Relational perspectives and algorithmic biases in the use of artificial intelligence in educational contexts*, International Conference on Philosofy of Computing, México, Oct. 2025.
 - 🎤 M. Soto Romero, *Ciencia de Datos y sus aplicaciones en Economía*, ANEE-UAEH, Mexico, Mar. 2024.
 - 🎓 M. Soto Romero, *Seguridad de Sistemas de Tipos vía Verificación de Modelos*. Master’s Thesis, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, UNAM, Oct. 2023.  
