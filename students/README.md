@@ -33,9 +33,7 @@
 ## Mandatory University Social Service Program (Servicio Social)
 
 *Former students*
-  
-- L. F. Loyola Cruz, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2023.
 
-*Current students*
+- J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2026.
+- L. F. Loyola Cruz, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, 2023.
    
-- J. M. Sosa Romo, *Apoyo a la docencia*, University Social Service, Facultad de Ciencias, UNAM, (doing).
