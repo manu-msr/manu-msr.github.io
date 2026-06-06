@@ -12,6 +12,7 @@
 
 *Current students*
 
+- L. P. Sánchez Victoria, *Derivación de sistemas de tipos sound-by-construction para un lenguaje funcional con evaluación perezosa*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - A. Casas Espinoza, *Sesgo socioeconómico en modelos de clasificación automática de texto: un enfoque sociotécnico para su detección y medición*. Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
 - V. M. Barbosa Martínez, *Diseño e Implementación de un Lenguaje de Dominio Específico (DSL) para la Integración Eficiente de Datos Heterogéneos en Sistemas de Reporte Crediticio*. Bachelor's Thesis, Bachelor's Degree in Actuarial Science, Facultad de Ciencias, UNAM, (under review).
 - E. S. Berber Gutiérrez, *Diseño ético de sistemas de recomendación y moderación en redes sociales para la protección del bienestar emocional: estudio empírico de exposición a contenido negativo y experiencias de personas usuarias en México*, Bachelor's Thesis, Bachelor's Degree in Computer Science, Facultad de Ciencias, UNAM, (under review).
