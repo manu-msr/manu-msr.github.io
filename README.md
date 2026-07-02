@@ -26,6 +26,10 @@ Courses Currently Taught (in Spanish):
 
 [Students](students/)
 
+## Academic Service
+
+- Member, Curriculum Revision Committee for the B.Sc. in Software Engineering, Universidad Autónoma de la Ciudad de México (2026–present).
+
 ## Research
 
 - 📄 M. Soto Romero, Y. I. Alfaro Mendoza, and D. A. Nieto Andrade, [*Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*](https://revistaaihc.mx/index.php/aihc/article/view/8/8), Avances en Interacción Humano-Computadora, vol. 1, no. 1, pp. 30–32, Sep. 2016.
