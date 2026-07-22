@@ -33,7 +33,10 @@ Teaching appointments and educational programs conducted in Spanish:
 
 ## Academic Service
 
-- Member, Curriculum Revision Committee for the B.Sc. in Software Engineering, Universidad Autónoma de la Ciudad de México (2026–present).
+- Member of the teaching team responsible for designing the Programming course for the distance-learning B.Sc. in Mathematics at UNAM’s Faculty of Sciences (since 2026).
+- Member, Curriculum Revision Committee for the B.Sc. in Software Engineering, Universidad Autónoma de la Ciudad de México (since 2026).
+- Member of the Organizing Committee for the Colloquium on Theory of Computation at UNAM’s Faculty of Sciences (since 2026).
+- Member of the academic content development team responsible for creating Moodle-based materials for the Gender and Ethics course in the B.Sc. in Biology at UNAM’s Faculty of Sciences (since 2026).
 
 **Curriculum and Course Development**
 
