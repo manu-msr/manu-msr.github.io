@@ -2,12 +2,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="30%" height="68%" vspace=22 hspace=10>
 
-I am a computer scientist with a Master’s degree (2023) in Computer Science and Engineering from the Universidad Nacional Autónoma de México (UNAM), completed at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS). I previously earned my Bachelor’s degree (2019) in Computer Science from the Faculty of Science at UNAM.
+I am a computer scientist with a Master’s degree in Computer Science and Engineering (2023) from the Universidad Nacional Autónoma de México (UNAM), completed at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS). I previously earned my Bachelor’s degree in Computer Science (2019) from UNAM’s Faculty of Science.
 
-My research is organized into two complementary areas. First, I work in Theory of Computation, focusing on the formal foundations of computer science, including computability, formal languages, semantics, and the mathematical structure of programming languages. Second, I study the Sociotechnical Evaluation of Computational Systems, analyzing how algorithms and digital infrastructures interact with social contexts and may reproduce structural biases and inequalities.
+My research interests span four complementary areas: programming education, Theory of Computation, artificial intelligence, and data science. In programming education, I study teaching and learning strategies that support the development of computational thinking, problem-solving skills, and meaningful programming practices. My work in Theory of Computation focuses on the formal foundations of computer science, including computability, formal languages, semantics, and the mathematical structure of programming languages. In artificial intelligence, I am particularly interested in the sociotechnical evaluation of computational systems, examining how algorithms and digital infrastructures interact with social contexts and may reproduce structural biases and inequalities. My work in data science explores the analysis, management, and interpretation of data to support computational research and the development of data-driven solutions.
 
-Since 2026, I have been a Full-Time Research and Teaching Faculty Member at the Universidad Autónoma de la Ciudad de México (UACM), within the College of Science and Technology, and I also teach at UNAM’s Faculty of Science.
-
+Since 2026, I have been a Full-Time Research and Teaching Faculty Member at the Universidad Autónoma de la Ciudad de México (UACM), within the College of Science and Technology. I also teach at UNAM’s Faculty of Science.
 
 ## Contact
 
@@ -24,7 +23,12 @@ Courses Currently Taught (in Spanish):
 <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">UACM - College of Science and Technology</a>   
 <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">UNAM - Science Faculty</a>
 
-[Students](students/)
+### Professional and Continuing Education
+
+Intructor - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a><br>
+<em>Institute for Research in Applied Mathematics and Systems (IIMAS), in collaboration with the Faculty of Science, UNAM, 2026.</em>
+
+👉 [**Students**](students/)
 
 ## Academic Service
 
