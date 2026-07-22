@@ -25,7 +25,7 @@ Courses Currently Taught (in Spanish):
 
 **Professional and Continuing Education**
 
-- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (2026)<br><br>
+- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a><br><br>
 
 👉 [**`Students`**](students/)
 
