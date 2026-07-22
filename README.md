@@ -18,20 +18,31 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 manuel.soto@uacm.edu.mx
 
 ## Teaching
-Courses Currently Taught (in Spanish):
+Teaching appointments and educational programs conducted in Spanish:
 
-- UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">College of Science and Technology</a> 
-- UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">Science Faculty</a>
+- UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a> (active)
+- UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a> (active)
 
 **Professional and Continuing Education**
 
-- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a><br><br>
+- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (active)
+- UNAM - Extracurricular Course in Introduction to Data Science (from 2023 to 2025)
+- BEDU - <a href="https://bedu.org/" target="_blank">Diploma Program in Data Science</a> (from 2020 to 2025) <br><br>
 
 👉 [**`Students`**](students/)
 
 ## Academic Service
 
 - Member, Curriculum Revision Committee for the B.Sc. in Software Engineering, Universidad Autónoma de la Ciudad de México (2026–present).
+
+**Curriculum and Course Development**
+
+- Curation, redevelopment, and relaunch of the Introduction to Databases module for BEDU’s Diploma Program in Data Science (2020 and 2024 editions).
+- Design and development of the following courses for BEDU (from 2020 to 2025):
+   - Introduction to the Linux Terminal
+   - SQL for Beginners
+   - Data Science
+   - Agile Project Management with Generative AI
 
 ## Research
 
