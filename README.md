@@ -20,15 +20,14 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 ## Teaching
 Courses Currently Taught (in Spanish):
 
-<a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">UACM - College of Science and Technology</a>   
-<a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">UNAM - Science Faculty</a>
+- UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">College of Science and Technology</a> (Since 2026)  
+- UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">Science Faculty</a> (Since 2016)
 
 ### Professional and Continuing Education
 
-Intructor - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a><br>
-<em>Institute for Research in Applied Mathematics and Systems (IIMAS), in collaboration with the Faculty of Science, UNAM, 2026.</em>
+- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (2026)<br><br>
 
-👉 [**Students**](students/)
+👉 [**`Students`**](students/)
 
 ## Academic Service
 
