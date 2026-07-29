@@ -40,11 +40,15 @@ Courses taught in Spanish:
   </ul>
 </details>
 
-**Professional and Continuing Education**
-
-- UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (active)
-- UNAM - Extracurricular Course in Introduction to Data Science (from 2023 to 2025)
-- BEDU - <a href="https://bedu.org/" target="_blank">Diploma Program in Data Science</a> (from 2020 to 2025) <br>
+<details style="margin-bottom: 0.8rem;">
+  <summary>Professional and Continuing Education</summary>
+  <ul>
+    <li>UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (2026)</li>
+    <li>UNAM - Extracurricular Course in Artificial Intelligence: Fundamentals, Applications, and Ethical Challenges (since 2025)</li>
+    <li>UNAM - Extracurricular Course in Introduction to Data Science (from 2023 to 2025)</li>
+    <li>BEDU - <a href="https://bedu.org/" target="_blank">Diploma Program in Data Science</a> (from 2020 to 2025)</li>
+  </ul>
+</details>
 
 👉 [**`Students`**](students/)
 
