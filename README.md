@@ -21,7 +21,7 @@ manuel.soto@uacm.edu.mx
 Courses taught in Spanish:
 
 <details style="margin-bottom: 0.4rem;">
-  <summary>UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a> (active)</summary>
+  <summary>UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a></summary>
   <br>
   <ul>
     <li>Introducción a la Programación — <em>Introduction to Programming</em></li>
@@ -30,7 +30,7 @@ Courses taught in Spanish:
 </details>
 
 <details style="margin-bottom: 0.8rem;">
-  <summary>UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a> (active)</summary>
+  <summary>UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a></summary>
   <br>
   <ul>
     <li>Lógica Computacional — <em>Computational Logic</em></li>
