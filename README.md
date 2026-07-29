@@ -40,6 +40,7 @@ Courses taught in Spanish:
     <li>Semántica y Verificación — <em>Semantics and Verification</em></li>
   </ul>
 </details>
+<br>
 
 **Professional and Continuing Education**
 
