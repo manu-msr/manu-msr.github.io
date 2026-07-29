@@ -15,7 +15,8 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 
 ## Contact
 
-manuel.soto@uacm.edu.mx
+manuel.soto@uacm.edu.mx   
+manu@ciencias.unam.mx
 
 ## Teaching
 Courses taught in Spanish:
