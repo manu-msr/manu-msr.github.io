@@ -28,7 +28,7 @@ Courses taught in Spanish:
     <li>Análisis de Algoritmos — <em>Analysis of Algorithms</em></li>
   </ul>
 </details>
-
+<br>
 <details>
   <summary>UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a> (active)</summary>
   <br>
