@@ -46,6 +46,10 @@ Teaching appointments and educational programs conducted in Spanish:
    - SQL for Beginners
    - Data Science
    - Agile Project Management with Generative AI
+ 
+## Professional Memberships
+
+- Member, [Sociedad Mexicana de Inteligencia Artificial (SMIA)](https://smia.mx/), May 2026–May 2027.
 
 ## Research
 
