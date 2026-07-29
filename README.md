@@ -43,7 +43,7 @@ Courses taught in Spanish:
 
 - UNAM - <a href="https://www.iimas.unam.mx/educacioncontinua/diplomado/" target="_blank">Diploma Program in Cloud SQL and NoSQL Databases</a> (active)
 - UNAM - Extracurricular Course in Introduction to Data Science (from 2023 to 2025)
-- BEDU - <a href="https://bedu.org/" target="_blank">Diploma Program in Data Science</a> (from 2020 to 2025) <br><br>
+- BEDU - <a href="https://bedu.org/" target="_blank">Diploma Program in Data Science</a> (from 2020 to 2025) <br>
 
 👉 [**`Students`**](students/)
 
