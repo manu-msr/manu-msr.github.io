@@ -18,10 +18,28 @@ visit my <a href="https://www.linkedin.com/in/manumsr" target="_blank">LinkedIn 
 manuel.soto@uacm.edu.mx
 
 ## Teaching
-Teaching appointments and educational programs conducted in Spanish:
+Courses taught in Spanish:
 
-- UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a> (active)
-- UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a> (active)
+<details>
+  <summary>UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a> (active)</summary>
+  <br>
+  <ul>
+    <li>Introducción a la Programación — <em>Introduction to Programming</em></li>
+    <li>Análisis de Algoritmos — <em>Analysis of Algorithms</em></li>
+  </ul>
+</details>
+
+<details>
+  <summary>UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a> (active)</summary>
+  <br>
+  <ul>
+    <li>Lógica Computacional — <em>Computational Logic</em></li>
+    <li>Lenguajes de Programación — <em>Programming Languages</em></li>
+    <li>Compiladores — <em>Compilers</em></li>
+    <li>Programación Declarativa — <em>Declarative Programming</em></li>
+    <li>Semántica y Verificación — <em>Semantics and Verification</em></li>
+  </ul>
+</details>
 
 **Professional and Continuing Education**
 
@@ -62,9 +80,9 @@ Teaching appointments and educational programs conducted in Spanish:
 
 ---
 
-- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, [*Situated Algorithmic Justice Assesment (SAJA): A Metodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](presentations/SAJA_COMIA2026_presentacion.pdf), XVIII Congreso Mexicano de Inteligencia Artificial, México, May. 2026.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](presentations/SAJA_COMIA2026_presentacion.pdf), XVIII Congreso Mexicano de Inteligencia Artificial, México, May 2026.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, *Sesgo Algorítmico: Una mirada ética y con Perspectiva de Género en la Inteligencia Artificial*, XXII Congreso Internacional de Filosofía, México, Dic. 2025.
-- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, *Relational perspectives and algorithmic biases in the use of artificial intelligence in educational contexts*, International Conference on Philosofy of Computing, México, Oct. 2025.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, *Relational perspectives and algorithmic biases in the use of artificial intelligence in educational contexts*, International Conference on Philosophy of Computing, México, Oct. 2025.
 - 🎤 M. Soto Romero, *Ciencia de Datos y sus aplicaciones en Economía*, ANEE-UAEH, Mexico, Mar. 2024.
 - 🎤 M. Soto Romero, *Machine Learning con Python: Aprendizaje no supervisado*, Simposio de Ingeniería UACM, México, Oct. 2023.
 - 🎤 M. Soto Romero, *¿Cuál es el futuro de la ciencia de datos para 2024?*, Bedu Workshops, Mexico, Oct. 2023.  
