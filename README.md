@@ -24,6 +24,8 @@ Courses taught in Spanish:
 <details style="margin-bottom: 0.4rem;">
   <summary>UACM - <a href="https://directorioprofesores.uacm.edu.mx/profesor.html?key=2026020466" target="_blank">B.Sc. in Software Engineering</a></summary>
   <ul>
+    <li>Introducción a la Ingeniería de Software - <em>Introduction to Software Engineering</em></li>
+    <li>Programación de Sistemas - <em>Systems Programming</em></li>
     <li>Introducción a la Programación — <em>Introduction to Programming</em></li>
     <li>Análisis de Algoritmos — <em>Analysis of Algorithms</em></li>
   </ul>
