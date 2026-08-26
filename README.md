@@ -85,7 +85,8 @@ Courses taught in Spanish:
 
 ---
 
-- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](presentations/SAJA_COMIA2026_presentacion.pdf), XVIII Congreso Mexicano de Inteligencia Artificial, México, May 2026.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, [*Usos y tensiones éticas de la inteligencia artificial en estudiantes de UACM y UNAM*](presentations/SAJA_COMIA2026_presentacion.pdf), 1er foro virtual La IA en la transformación de la educación superior: innovación con ética, México, Aug 2026.
+- 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](presentations/Usos_tensiones_eticas_IA_UACM_UNAM.pdf), XVIII Congreso Mexicano de Inteligencia Artificial, México, May 2026.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, *Sesgo Algorítmico: Una mirada ética y con Perspectiva de Género en la Inteligencia Artificial*, XXII Congreso Internacional de Filosofía, México, Dic. 2025.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, *Relational perspectives and algorithmic biases in the use of artificial intelligence in educational contexts*, International Conference on Philosophy of Computing, México, Oct. 2025.
 - 🎤 M. Soto Romero, *Ciencia de Datos y sus aplicaciones en Economía*, ANEE-UAEH, Mexico, Mar. 2024.
