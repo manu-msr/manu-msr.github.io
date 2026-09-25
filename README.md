@@ -34,11 +34,12 @@ Courses taught in Spanish:
 <details style="margin-bottom: 0.8rem;">
   <summary>UNAM - <a href="https://www.fciencias.unam.mx/directorio/74224" target="_blank">B.Sc. in Computer Science</a></summary>
   <ul>
-    <li>Lógica Computacional — <em>Computational Logic</em></li>
     <li>Lenguajes de Programación — <em>Programming Languages</em></li>
+    <li>Lógica Computacional — <em>Computational Logic</em></li>
+    <li>Semántica y Verificación — <em>Semantics and Verification</em></li>
     <li>Compiladores — <em>Compilers</em></li>
     <li>Programación Declarativa — <em>Declarative Programming</em></li>
-    <li>Semántica y Verificación — <em>Semantics and Verification</em></li>
+    
   </ul>
 </details>
 
@@ -88,6 +89,7 @@ Courses taught in Spanish:
 
 ---
 
+- * 🎤 M. Soto Romero, Panelist, *¿IA: el fin de la normalidad? Desafíos legales y ambientales para un futuro equitativo y sostenible*, Debate Transdisciplinario, Simposio de Ingeniería 2026, Universidad Autónoma de la Ciudad de México (UACM), Mexico City, Mexico, Sep. 2026.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, [*Usos y tensiones éticas de la inteligencia artificial en estudiantes de UACM y UNAM*](presentations/Usos_tensiones_eticas_IA_UACM_UNAM.pdf), 1er foro virtual La IA en la transformación de la educación superior: innovación con ética, México, Aug 2026.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](presentations/SAJA_COMIA2026_presentacion.pdf), XVIII Congreso Mexicano de Inteligencia Artificial, México, May 2026.
 - 🎤 M. Soto Romero, K. Ramírez Pulido, *Sesgo Algorítmico: Una mirada ética y con Perspectiva de Género en la Inteligencia Artificial*, XXII Congreso Internacional de Filosofía, México, Dic. 2025.
