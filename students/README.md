@@ -25,7 +25,7 @@
 
 ## Thesis examiner
 
-- W. Ruiz Soto, *Detección de polaridad emocional en voz de adultos mayores mediante modelos de aprendizaje automático*. Bachelor’s Thesis, Bachelor’s Degree in Software Engineering, Colegio de Ciencia y Tecnología, Universidad Autónoma de la Ciudad de México (UACM), 2026.
+- W. Ruiz Soto, *Detección de polaridad emocional en voz de adultos mayores mediante modelos de aprendizaje automático*. Bachelor’s Thesis, Bachelor’s Degree in Software Engineering, Colegio de Ciencia y Tecnología, UACM, 2026.
 - L. M. Muñoz Barón, *Manual de ejercicios para la materia lenguajes de programación*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2026.   
 - J. R. Desales Santos, *Desarrollo y mantenimiento de un sistema controlador de versiones y gestor de configuración: ClearCase/VersionVault*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025.  
 - D. L. Nicolás Pavia, *Notas para Compiladores*. Bachelor’s Thesis, Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2024.  
