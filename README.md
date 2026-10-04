@@ -44,9 +44,7 @@ Courses are taught in Spanish.
 - [Google Scholar Profile](https://scholar.google.com/citations?user=keMLbZkAAAAJ)
 
 **2026**
-- M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, and A. L. Reyes Cabello,
-  [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](https://link.springer.com/chapter/10.1007/978-3-032-37438-7_40),
-  in Advances in Computational Intelligence, Communications in Computer and Information Science, Springer, 2026.
+- M. Soto Romero, K. Ramírez Pulido, A. C. Cervantes Arrioja, and A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](https://link.springer.com/chapter/10.1007/978-3-032-37438-7_40), in *Artificial Intelligence – COMIA 2026*, Communications in Computer and Information Science, vol. 3095, pp. 516–530, Springer, 2026.
 
 **2016**
-- 📄 M. Soto Romero, Y. I. Alfaro Mendoza, and D. A. Nieto Andrade, [*Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*](https://revistaaihc.mx/index.php/aihc/article/view/8/8), Avances en Interacción Humano-Computadora, vol. 1, no. 1, pp. 30–32, Sep. 2016.
+- M. Soto Romero, Y. I. Alfaro Mendoza, and D. A. Nieto Andrade, [*Leetris: Un videojuego de apoyo al desarrollo de habilidades de comprensión de lectura*](https://revistaaihc.mx/index.php/aihc/article/view/8/8), *Avances en Interacción Humano-Computadora*, vol. 1, no. 1, pp. 30–32, 2016.
