@@ -18,9 +18,3 @@
 
 - Luis Fernando Loyola Cruz   
    *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
-
-## Academic Advisees
-
-- Daniela Diaz Morales
-- Michelle Vera Villafañez Flores
-   
