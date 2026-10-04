@@ -13,8 +13,12 @@
 
 ## Former Students
 
+**2025**
+
 - Erick Daniel Arroyo Martínez   
    *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*. Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025. **Passed with Distinction**.
+
+**2023**
 
 - Luis Fernando Loyola Cruz   
    *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
