@@ -41,6 +41,7 @@ Courses are taught in Spanish.
 - Declarative Programming
 
 ## Publications
+- [Google Scholar Profile](https://scholar.google.com/citations?user=keMLbZkAAAAJ)
 
 **2026**
 - M. Soto Romero, K. Ramírez Pulido, A. Cervantes Arrioja, and A. L. Reyes Cabello,
