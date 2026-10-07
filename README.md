@@ -1,6 +1,6 @@
 ## About
 
-<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="24%" height="62%" vspace=22 hspace=10>
+<img src="https://avatars.githubusercontent.com/u/15841718?v=4" align="right" width="22%" height="60%" vspace=22 hspace=10>
 
 Universidad Autónoma de la Ciudad de México   
 Colegio de Ciencia y Tecnología   
