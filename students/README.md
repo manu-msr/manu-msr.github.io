@@ -3,7 +3,7 @@
 - Leslie Paola Sánchez Victoria
 - Axel Casas Espinoza
 - Victor Manuel Barbosa Martínez
-- Eder Samuer Berber Gutiérrez
+- Eder Samuel Berber Gutiérrez
 - Bruno Martínez Enríquez
 - Luis Daniel López Monroy
 - Marco Antonio Orduña Avila
@@ -16,9 +16,11 @@
 **2025**
 
 - Erick Daniel Arroyo Martínez   
-   *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*. Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025. **Passed with Distinction**.
+  *Cálculo de Compiladores Correctos: Del Régimen Estricto al Perezoso*   
+  Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2025. **Passed with Distinction**.
 
 **2023**
 
 - Luis Fernando Loyola Cruz   
-   *Manual de prácticas para la asignatura de Lógica Computacional*. Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
+  *Manual de prácticas para la asignatura de Lógica Computacional*   
+  Bachelor’s Degree in Computer Science, Facultad de Ciencias, UNAM, 2023.
