@@ -9,7 +9,7 @@ M.Sc., Universidad Nacional Autónoma de México, 2023.
 
 **Research Interests**
 
-Theory of Computation, Programming Languages, Artificial Intelligence, Data Science, Computing Education, Sociotechnical Evaluation of AI Systems
+Theory of Computation, Artificial Intelligence, Computing Education
 
 ## Contact
 
