@@ -40,6 +40,10 @@ Courses are taught in Spanish.
 - Compilers
 - Declarative Programming
 
+## Academic Events
+
+- [Coloquio de Teoría de la Computación](https://sites.google.com/ciencias.unam.mx/lenguajesdeprogramacion2/inicio)
+
 ## Publications
 - [Google Scholar Profile](https://scholar.google.com/citations?user=keMLbZkAAAAJ)
 
