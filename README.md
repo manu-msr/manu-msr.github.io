@@ -32,6 +32,7 @@ Courses are taught in Spanish.
 
 **UACM**
 - Programming Systems (Compilers)
+- Analysis of Algorithms
 
 **UNAM**
 - Programming Languages
