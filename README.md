@@ -31,7 +31,7 @@ Courses are taught in Spanish.
 - [Students](students/)
 
 **UACM**
-- [Programming Systems (Compilers)](https://manu-msr.github.io/fc-ldp/)
+- [Programming Systems (Compilers)](https://manu-msr.github.io/slt-pds/)
 - Analysis of Algorithms
 
 **UNAM**
