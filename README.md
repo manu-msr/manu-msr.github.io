@@ -47,6 +47,7 @@ Courses are taught in Spanish.
 
 ## Publications
 - [Google Scholar Profile](https://scholar.google.com/citations?user=keMLbZkAAAAJ)
+- [Essays (in Spanish)](https://github.com/manu-msr/manu-msr.github.io/blob/main/ensayos/README.md)
 
 **2026**
 - M. Soto Romero, K. Ramírez Pulido, A. C. Cervantes Arrioja, and A. L. Reyes Cabello, [*Situated Algorithmic Justice Assessment (SAJA): A Methodology for Community-Grounded Evaluation of Artificial Intelligence Systems*](https://link.springer.com/chapter/10.1007/978-3-032-37438-7_40), in *Artificial Intelligence – COMIA 2026*, Communications in Computer and Information Science, vol. 3095, pp. 516–530, Springer, 2026.
